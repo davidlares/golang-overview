@@ -1,4 +1,4 @@
-# DavidGo
+## DavidGo
 
 Ejercicios básicos y características principales de GoLang
 
@@ -18,8 +18,7 @@ Ejercicios básicos y características principales de GoLang
     - Para ejecutar sin compilar -> go run [filename.go]
 
 ## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+[David E Lares S](https://davidlares.com)
 
 ## Licencia
-
-- [MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
