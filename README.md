@@ -9,12 +9,8 @@ Basic exercises and main features of GoLang
 
 ## Running files
 
-- .go -> extension
 - compile: go build [filename.go]
-* Compilation is independent of the operating system
-- run:
-./filename
-
+- ./[filename]
 - To run without compiling -> go run [filename.go]
 
 ## Credits
