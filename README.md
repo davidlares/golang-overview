@@ -1,24 +1,24 @@
-## DavidGo
+## Golang overview
 
-Ejercicios básicos y características principales de GoLang
+Basic exercises and main features of GoLang
 
-## ¿Qué es Go?
+## What is Go?
 
-- GO es un leng de programacion opensource, facil para construir software facil, eficiente y robusto
-- Creado en Google
+- GO is an open-source programming language, easy to build simple, efficient, and robust software.
+- Created by Google
 
-## Ejecutar archivos
+## Running files
 
-   - .go -> extension
-   - compilar: go build [filename.go]
-      * la compilacion es independiente del sistema operativo
-   - ejecucion:
-     ./filename
+- .go -> extension
+- compile: go build [filename.go]
+* Compilation is independent of the operating system
+- run:
+./filename
 
-    - Para ejecutar sin compilar -> go run [filename.go]
+- To run without compiling -> go run [filename.go]
 
-## Créditos
-[David E Lares S](https://davidlares.com)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## Licencia
+## License
 [MIT](https://opensource.org/licenses/MIT)
